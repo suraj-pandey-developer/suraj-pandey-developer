@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Suraj Pandey</h1>
 <h3 align="center">A enthusiastic coder and developer from India</h3> 
-<img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1cpK61zx3QAfsqVMacVx684wkedOBO3Da/view?usp=share_link">
+  <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suraj-pandey-developer&label=Profile%20views&color=0e75b6&style=flat" alt="suraj-pandey-developer" /> </p>
 
 - 💬 Ask me about **DSA, Coding Skills, Language, Front-End**
